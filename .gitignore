@@ -10,9 +10,6 @@ __pycache__/
 venv/
 .env
 
-# Audio Assets
-assets/song.wav
-
 # System files
 .DS_Store
 linuxmusic_mpv_*.sock
