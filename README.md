@@ -186,16 +186,16 @@ python3 linuxmusic.py
 
 ```
 ▸ Select: 2
-▸ Enter song name: Diljit Dosanjh Lover
+▸ Enter song name: Despacito
 [*] Searching...
-[✓] Found: Lover - Diljit Dosanjh
+[✓] Found: Despacito-Official Music Video
     Starting playback...
 ```
 
 You can also paste a direct YouTube URL:
 
 ```
-▸ Enter song name: https://music.youtube.com/watch?v=dQw4w9WgXcQ
+▸ Enter song name: https://music.youtube.com/watch?v=xyz
 ```
 
 ### Playback controls
