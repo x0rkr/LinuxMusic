@@ -148,8 +148,7 @@ You will see a prompt like this:
 6. Paste the header block into the terminal prompt
 7. Press `Enter` twice
 
-This generates `browser.json` in your project directory. **Do not commit this file.**
-Add it to `.gitignore`:
+This generates `browser.json` in your project directory. 
 
 ```bash
 echo "browser.json" >> .gitignore
