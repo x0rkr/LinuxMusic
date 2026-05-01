@@ -1,0 +1,18 @@
+# Security: Do NOT leak your YouTube login
+browser.json
+headers_auth.json
+
+# Python local files
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Audio Assets
+assets/song.wav
+
+# System files
+.DS_Store
+linuxmusic_mpv_*.sock
