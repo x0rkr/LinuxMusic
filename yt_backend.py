@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-yt_backend.py - YouTube Music backend for LinuxMusic v4.0
+yt_backend.py - YouTube Music backend for LinuxMusic v1.0
 Handles authentication, playlist fetching, and stream URL extraction.
 """
 
