@@ -97,7 +97,7 @@ Library/Search  →  CDN Stream URL  →  UNIX IPC Socket  →  ALSA  →  Speak
 
 ```bash
 # 1. Clone
-git clone https://github.com/x0rkr/LinuxMusic.git
+git clone https://github.com/radi0aktiv/LinuxMusic.git
 cd LinuxMusic
 
 # 2. Create virtual environment (recommended)
@@ -319,8 +319,8 @@ If the TUI is already running and something breaks, press `Q` to return to menu
 ## Dev
 
 ```
-x0rkr
-github.com/x0rkr
+radi0aktiv
+github.com/radi0aktiv
 ```
 
 Built for Linux. Works on Any OS.

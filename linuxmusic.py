@@ -77,7 +77,7 @@ BANNER = f"""
 {C.CLUB_PURPLE}║{C.END}    {C.CLUB_PURPLE}  ░ ░    ▒ ░   ░   ░ ░   ░░░ ░ ░  ▒ ░░      ░    ░░░ ░ ░ ░  ░  ░   ▒ ░░  ░  ░{C.END}     {C.CLUB_PURPLE}║
 {C.CLUB_PURPLE}║{C.END}    {C.CLUB_PURPLE}    ░  ░ ░           ░     ░      ░        ░      ░         ░     ░        ░{C.END}     {C.CLUB_PURPLE}║
 {C.CLUB_PURPLE}║{C.END}                                                                                                              {C.CLUB_PURPLE}║
-{C.CLUB_PURPLE}║{C.END}                           Dev: x0rkr | Handle: github.com/x0rkr                                         {C.CLUB_PURPLE}║
+{C.CLUB_PURPLE}║{C.END}                           Dev: radi0aktiv | Handle: github.com/radi0aktiv                                         {C.CLUB_PURPLE}║
 {C.CLUB_PURPLE}╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝{C.END}
 """
 
@@ -87,8 +87,8 @@ BANNER = f"""
 
 CREDITS = f"""
 {C.DIM}{'═' * 80}{C.END}
-{C.CLUB_GOLD}  🎧  DEVELOPER    : {C.CLUB_CYAN}x0rkr{C.END}
-{C.CLUB_GOLD}  🔗  GITHUB       : {C.CLUB_CYAN}github.com/x0rkr{C.END}
+{C.CLUB_GOLD}  🎧  DEVELOPER    : {C.CLUB_CYAN}radi0aktiv{C.END}
+{C.CLUB_GOLD}  🔗  GITHUB       : {C.CLUB_CYAN}github.com/radi0aktiv{C.END}
 {C.CLUB_GOLD}  🎵  VERSION      : {C.CLUB_CYAN}DJ EDITION v1.0{C.END}
 {C.CLUB_GOLD}  💿  ENGINE       : {C.CLUB_CYAN}YouTube Music API + MPV{C.END}
 {C.CLUB_GOLD}  🔊  AUDIO        : {C.CLUB_CYAN}No Ads. Pure Audio.{C.END}
